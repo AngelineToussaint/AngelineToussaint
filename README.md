@@ -5,6 +5,9 @@ I am Angéline TOUSSAINT. I develop web app and mobile app by using NodeJS, PHP,
 #### [MyBooksMemory](https://github.com/InnovA2/mybooksmemory)
 It's a mobile application using Ionic, Angular and NestJs. It allows users to manage their books, as well as discover new books. The application also allows to know where the bookstores are located in their cities.
 
+#### [BooksMemory](https://github.com/InnovA2/booksmemory)
+It's a web service using NestJS and Symfony (for the web scraper), which allows to developers to retrieve information about books by search or directly by ISBN.
+
 #### [SAM-Arduino-matrix](https://github.com/WaZeR-Adrien/SAM-Arduino-matrix)
 It's an arcade terminal project using Arduino as well as an RGB matrix.
 
