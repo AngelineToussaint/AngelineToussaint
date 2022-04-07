@@ -24,4 +24,4 @@ It's a PHP library similar to previous Url-Builder.
 
 ### 📧 For contact me
 - [Personal website](http://angeline-toussaint.fr/)
-- [Email](mailto:contact@angeline-tousaint.fr)
+- [Email](mailto:contact@angeline-toussaint.fr)
